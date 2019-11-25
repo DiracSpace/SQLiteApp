@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="createDB">Crear BD</string>
+    <string name="Mostrar">Mostrar todos</string>
+    <string name="Insertar">Insertar</string>
+    <string name="Actualizar">Actualizar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="ID">ID</string>
+    <string name="Nombres">Nombres</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Edad">Edad</string>
+    <string name="Promedio">Promedio general</string>
+</resources>
